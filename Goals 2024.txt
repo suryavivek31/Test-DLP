@@ -1,0 +1,35 @@
+"Endpoint Security & BESF:have successfully tracked and reported around 230 non-delivery locations(till date) which inclues createing a process and a kql query and run it on daily basis. Contributed by preparing and sharing the MDE vulnerability dashboards. Additionally, automated infrastructure vulnerability assessments and played a key role in enhancing the organization's security posture through the Amazon Enterprise Security Framework. This involved creating a detailed checklist and coordinating with multiple stakeholders for review
+
+VAPT:Have performed internal Vapt assesments on Brillio internal applications,Contributed to tracking and monitoring external attack path vulnrabilites in various tools like secure score card bitsight and immuniweb  and reporting issues to application owners,and tracking until resolution. vulnerability repository. and have worked and coordinated with sisa team and internal team menbers for succsful remidation 
+
+
+Security incident management- SOC Interaction Coordination
+
+Have engaging with soc team in daily calls and understating and reviwing the Security incidecidents daily basics  and proving an update to team about the secure posture., and have contributed during the P1 security incidnets(including client reportrd) By collecting various logs from all sources and by analyzing all the logs and assting in the report creation.
+
+
+
+Audit and BAU Support: Played an important role in internal and external ISO 27001 audits by facing the extrna;l audtor in Hyderabad location and coordinating with multiple teams for required essential records and closure of NC's and organising internal audits. contributing to Power BI for CSS governance, coordinated and collected data from various stakeholders for monthly governance activities, worked on updating and maintaining various Microsoft lists,and assisted in policy and procedure creation, along with security awareness mailers to Brillio internal teams to promote security awareness among Brillians,contributing to safeguarding our organization along with daily alerts montoring and proving on call support till 12 pm on shift basics  with zero esclations form BU.
+
+
+5. MBO:Self-Learning / Upskilling, Demonstrate Brillio Values:
+
+Have Demonstrated Brillio values by supporting CSR team through conducting Cyber security seminar for annul Ngo parternes by helping NGO partens on impoprtance of password security phisng and data security storate and many concepts replated to how to secure their data and brillio date which is there with them. reinforcing our dedication to promoting a secure online environment by sustaining Brillio's Values.
+
+
+
+
+Endpoint Security & BESF:
+Successfully tracked and reported around 230 non-delivery locations till date, which involved creating a process to track and report non delivery location along with a KQL query for daily monitoring. Contributed by preparing and sharing MDE vulnerability dashboards. Additionally, automated infrastructure vulnerability assessments to run on 1st and 3rd for network and servers with an automated mail trigger to team and played a key role in enhancing the organization's security posture through the Brillio Enterprise Security Framework. This involved developing a detailed checklist and coordinating with multiple stakeholders for review.
+
+VAPT (Vulnerability Assessment & Penetration Testing):
+Performed internal VAPT assessments on Brillio's internal applications by using Burp suite. Contributed to tracking and monitoring external attack path vulnerabilities using tools like Secure Scorecard, Bitsight, and ImmuniWeb, and reported issues to application owners and tracking them till resolution.and updating the same in  Maintained vulnerability repository and collaborated closely with the SISA team and internal team members for successful remediation of external vapt assessments.
+
+Security Incident Management - SOC Interaction Coordination:
+Engaged with the SOC team in daily calls to understand and review security incidents and by helping soc team in intial investigating  and providing update about security incidents and on the organization's security posture to management. Contributed during P1 security incidents (including client-reported cases) by collecting and analyzing logs from various sources and assisting in report creation.
+
+Audit and BAU Support:
+Played a crucial role in internal and external ISO 27001 audits, facing external auditor at the Hyderabad location and coordinating with multiple teams to provide essential records and Organized internal audits and contributed to Power BI for CSS governance, collecting data from various stakeholders for monthly governance activities. Managed and updated various Microsoft Lists, assisted in creating policies and procedures, and delivered security awareness mailers to Brillio teams. Also monitored daily alerts and provided on-call support until midnight on a shift basis with zero escalations from BU.
+
+MBO: Self-Learning / Upskilling, Demonstrating Brillio Values:
+Demonstrated Brillio values by supporting the CSR team, conducting a cybersecurity seminar for annual NGO partners. Educated NGOs on the importance of password security, phishing, data storage, and various data protection concepts, reinforcing our commitment to a secure online environment while upholding Brillio's values. and have complated CC in cyber security from ISC2 and currently Upskiing on CEH aand cloud security.

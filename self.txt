@@ -1,0 +1,27 @@
+2000
+
+Demonstrated Brillio values by supporting CSR team through conducting multiple training sessions on internet safety and cybersecurity.successfully delivered these sessions to both Sikshna NGO staff and local school students, reinforcing our dedication to promoting a secure online environment by sustaining Brillio's Values.
+
+Self-learning and upskilling: successfully completed Cisco certification in the Junior Cybersecurity Analyst Path and gained proficiency in VAPT,endpoint security,external attack paths,SOC incidents,ISO 27K audit, PowerBI, and DLP.
+
+VAPT:Contributed to tracking and monitoring external attack path vulnerabilities,reporting issues to application owners,and tracking until resolution. Supported the revamping of a centralised vulnerability repository. Assisted in infra VA using Tenable and contributed to vendor analysis for external attack paths and dark web monitoring. Supported in the analysis tool for internal VAPT.
+
+Audit and BAU Support: Played an important role in internal and external ISO 27001 audits and client questionnaires by coordinating with multiple teams for required essential records and closure of NC's and organising monthly internal audits. contributing to Power BI for CSS governance, coordinated and collected data from various stakeholders for monthly governance activities, worked on updating and maintaining various Microsoft lists,and assisted in policy and procedure creation, along with regularly sending regular security awareness mailers to Brillio internal teams to promote security awareness among Brillians,contributing to safeguarding our organisation.
+
+End point security: contributing to the Brillio Enterprise Security Framework to enhance the organisation's security posture,involving the creation of a checklist, coordination with multiple stakeholders for reviews,engaging in daily SOC calls, understanding security incidents,and upskilling knowledge on sentinel tool.
+
+
+280
+
+Self learning and Upskilling :Successfully completed the Cisco certification in the Junior Cybersecurity Analyst Path and gained proficiency in VAPT, endpoint security, external attack paths, SOC incidents, ISO 27K audit, PowerBI, and DLP.
+
+Demonstrated Brillio values by supporting CSR team through conducting multiple training sessions on internet safety and cybersecurity for Sikshna NGO staff and students by sustaining Brillio's Values.
+
+Supporting internal&external ISO 27K audits, client questionnaires,coordinating with teams for required records& organizing monthly internal audits,contributing to Power BI for CSS governance&managing lists,sending awareness mailers and aiding in policy and procedure development.
+
+Contributing to the Brillio Enterprise Security Framework to enhance the organization's security posture involves creating checklists, coordinating with multiple teams, engaging in daily SOC calls, understanding security incidents, and upskilling knowledge on the sentinel tool.
+
+Contributed in reporting,tracking&Resolution of external attack path. Supported in revamping centralised vulnerability tracker assisted in infra VA using Tenable and contributed to vendor analysis for external attack path & Darkweb monitoring and tool analysis for internal VAPT.
+
+
+Suryavivek@31Brillio.
